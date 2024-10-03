@@ -1161,7 +1161,7 @@ img{
 	float:left;
 	left:0px;
 	z-index:10;
-	padding:30px 0px;
+	padding:100px 0 100px 50px;
 }
 
 .main-header .main-box .logo-box .logo img{
@@ -1829,7 +1829,7 @@ img{
 
 .header-style-five .header-upper .logo-box{
 	padding-top:0px;
-	margin-top:-45px;
+	margin-top:0px;
 }
 
 .main-header.header-style-five .nav-outer{
