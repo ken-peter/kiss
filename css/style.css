@@ -10252,7 +10252,7 @@ img{
 .services-single .service-tabs .tab-btns .tab-btn{
 	position:relative;
 	margin:0px 35px;
-	font-size:18px;
+	font-size:9px;
 	color:#012068;
 	font-weight:500;
 	line-height:24px;
@@ -10267,6 +10267,7 @@ img{
 	text-transform:capitalize;
 	font-family: 'Poppins', sans-serif;
 }
+
 
 .services-single .service-tabs .tab-btns .tab-btn:before{
 	position:absolute;
